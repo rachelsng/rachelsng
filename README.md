@@ -12,4 +12,5 @@
 | --- | ----------- |
 | [Python] Improving Starbucks Offer Targeting by Predicting Offer Success | [🔗 ](https://github.com/rachelsng/Improving-Starbucks-Offer-Targeting-with-Success-Prediction)|
 | [Python] Train Travel Demand Prediction | [🔗 ](https://github.com/rachelsng/Train-Travel-Demand-Modelling-in-Python)|
+| [Python] Multi-armed Bandits to Learn Best Website Layout | [🔗 ](https://github.com/rachelsng/Multiarmed-Bandits-Website-Tuning)|
 | [SQL] Web App to Visualize Maritime Energy Efficiency Statistics | [🔗 ](https://github.com/salimwid/Visualizing_Maritime_Energy_Efficiency_Statistics)|
