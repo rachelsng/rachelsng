@@ -14,3 +14,21 @@
 | [Python] Train Travel Demand Prediction | [🔗 ](https://github.com/rachelsng/Train-Travel-Demand-Modelling-in-Python)|
 | [Python] Multi-armed Bandits to Learn Best Website Layout | [🔗 ](https://github.com/rachelsng/Multiarmed-Bandits-Website-Tuning)|
 | [SQL] Web App to Visualize Maritime Energy Efficiency Statistics | [🔗 ](https://github.com/salimwid/Visualizing_Maritime_Energy_Efficiency_Statistics)|
+
+-------------------------------------------
+
+## Packages Used
+
+I am familiar with the following packages through various hands-on projects. 
+
+- Python:
+    - Data Preprocessing: *pandas, numpy*
+    - Data Visualisation: *matplotlib, seaborn*
+    - Causal Inference: *statsmodels, linearmodels*
+    - Machine Learning: *sklearn, xgboost, lightgbm*
+    - Deep Learning: *keras/tensorflow*
+    - NLP: *nltk*
+- R: 
+    - Data Preprocessing: *dplyr, tidyr*
+    - Data Visualisation: *ggplot2*
+    - Graph: *igraph*
