@@ -10,6 +10,7 @@
 
 | Project Name | Repo |
 | --- | ----------- |
+| [Python, SQL] Detecting Brands Committing Ratings Fraud on Amazon with Network Analytics | [🔗 ](https://github.com/rachelsng/Amazon-Fraud-Detection-with-Network-Analytics)|
 | [Python] Improving Starbucks Offer Targeting by Predicting Offer Success | [🔗 ](https://github.com/rachelsng/Improving-Starbucks-Offer-Targeting-with-Success-Prediction)|
 | [Python] Train Travel Demand Prediction | [🔗 ](https://github.com/rachelsng/Train-Travel-Demand-Modelling-in-Python)|
 | [Python] Multi-armed Bandits to Learn Best Website Layout | [🔗 ](https://github.com/rachelsng/Multiarmed-Bandits-Website-Tuning)|
