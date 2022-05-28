@@ -27,7 +27,7 @@ I am familiar with the following packages through various hands-on projects.
     - Causal Inference: *statsmodels, linearmodels*
     - Machine Learning: *sklearn, xgboost, lightgbm*
     - Deep Learning: *keras/tensorflow, pytorch*
-    - NLP: *nltk, BERT, fuzzywuzzy*
+    - NLP: *nltk, texthero, fuzzywuzzy, BERT*
     - Big Data: *pyspark*
 - R: 
     - Data Preprocessing: *dplyr, tidyr*
