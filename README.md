@@ -26,8 +26,9 @@ I am familiar with the following packages through various hands-on projects.
     - Data Visualisation: *matplotlib, seaborn*
     - Causal Inference: *statsmodels, linearmodels*
     - Machine Learning: *sklearn, xgboost, lightgbm*
-    - Deep Learning: *keras/tensorflow*
-    - NLP: *nltk*
+    - Deep Learning: *keras/tensorflow, pytorch*
+    - NLP: *nltk, BERT, fuzzywuzzy*
+    - Big Data: *pyspark*
 - R: 
     - Data Preprocessing: *dplyr, tidyr*
     - Data Visualisation: *ggplot2*
