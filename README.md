@@ -1,7 +1,7 @@
 ## Hi there, I'm Rachel Sng
 
 - Thank you for visiting my Github portfolio! I am interested in the field of data science, data analytics and machine learning. 
-- I am currently studying for my Masters of Science in Business Analytics with the National University of Singapore (estimated graduation, 09-2022). 
+- I am currently a data scientist! 
 - I will be constantly updating my portfolio with projects that I have done on this learning journey. Open to any feedback and improvements! 😄
 
 -------------------------------------------
